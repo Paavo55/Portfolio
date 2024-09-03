@@ -1,0 +1,16 @@
+Navigointi palkki jossa on linkit sivuille
+Pääsivu, CV kokonaisuudessaan, Yhteystiedot
+Yleinen sisältö (Kaikilla sivuilla sama): Navigointi palkki ja footer pysyvät samoina.
+Pääsivun sisältö: Mainos tyyppinen sivu, kuvia ja lyhyitä tekstinpätkiä.
+CV Tiedot: sisältää tarkemmin tietoa henkilön osaamisesta ja harrastuksista.
+Yhteystiedoissa: Yhteystiedot:D
+Työt: Sivu jolle voi linkata valmiita töitä ja lisätietoa siitä minkä kanssa työskentelee juuri nyt.
+
+navigointi palkki on sticky.(ei ollukkaa)
+navigointi palkin alareunat on mustat ja hoverilla napit on rgb(36, 152, 247) värisiä.
+napit on sijoitettu niin että niiden välissä on tilaa.
+harkitse pyöristykset elementtien reunoille joissain tilanteissa.
+
+Värit: hover = sininen, reunat = mustat, teksti = taustan mukaan tai default musta,
+Fontit: Arial, Helvetica, sans-serif
+Kuvat: Kuvien placementit on värjätty punaisella ja kuvat etsitään netistä. 1 merkattu sinisellä.
